@@ -1,7 +1,7 @@
 <?php
 return array(
   /**
-   * List Agencies by Place Id
+   * Example Service
    */
 
   $route = '(?P<params>.+)', // regex matcher
